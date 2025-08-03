@@ -17,7 +17,7 @@ I'm fascinated by the interface between **neuroscience** and **artificial intell
 
 
 🌱 **Currently Learning**
-- Filling gaps in Neuroscience and ML
+- Filling gaps in Neuroscience and ML, specifically about Free Energy Principle and RL
 - Still understanding basic properties of LLMs & RNNs
 
 ---
@@ -36,15 +36,12 @@ I'm fascinated by the interface between **neuroscience** and **artificial intell
 ### 📘 Recent Questions I’ve Been Thinking About
 
 > 🧩 What kind of internal representations enable flexible generalization in both brains and machines?  
-> 🔁 Can simple recurrent structures (like RNNs) model working memory as efficiently as cortical circuits?  
-> 🧬 How do biological learning rules actually scale — and can we borrow from them?
+> 🔁 Can simple recurrent structures (like RNNs) model working memory as efficiently as cortical circuits - and how?  
 
 ---
 
 ### 📫 Let's Connect
 
-<!--- 🧠 Blog or notes (coming soon?): _insert link if relevant_
-- ✉️ Email: _optional_
-- 🔗 [Twitter/X](https://twitter.com/yourhandle) | [Website](https://yourdomain.com) | [LinkedIn](https://linkedin.com/in/yourhandle)
--->
+- 🔗 [Twitter/X](https://x.com/DbgYBrn) | [LinkedIn](https://www.linkedin.com/in/florentin-seifert-50984233b/)
+
 
