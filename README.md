@@ -19,7 +19,6 @@ I'm fascinated by the interface between **neuroscience** and **artificial intell
 🌱 **Currently Learning**
 - Filling gaps in Neuroscience and ML
 - Still understanding basic properties of LLMs & RNNs
-- 
 
 ---
 
