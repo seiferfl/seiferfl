@@ -7,17 +7,16 @@ I'm fascinated by the interface between **neuroscience** and **artificial intell
 🔬 **Current Interests**  
 - Biological learning algorithms (and how they might differ from backpropagation)
 - Working memory and sequence modeling
-- Mechanistic interpretability of neural networks
 - Science of Learning
 
 
 🚧 **Current Projects**  
-- 🤝 Collaborating with [@LeonardVetter](https://github.com/LeonardVetter) on a project implementing and dissecting toy models using mechanistic interpretability tools.
-- 🧠 Building a repository of simple, biologically inspired models that can solve basic reasoning tasks — bridging intuition from neuroscience and ML.
+- Devising a local learning rule for spiking RNNS 
+- 🤝 Collaborating with [@LeonardVetter](https://github.com/LeonardVetter) on using statistical physics to better understand macroscopic dynamics in neural networks.
 
 
 🌱 **Currently Learning**
-
+- hopefully a lot.
 
 ---
 
