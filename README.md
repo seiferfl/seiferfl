@@ -2,7 +2,7 @@
 
 ### 👋 Hi, I'm Florentin
 
-I'm fascinated by the interface between **neuroscience** and **artificial intelligence** — especially when it comes to understanding **how biological systems learn, remember, and reason**.
+I'm a Master's student in Neurophysics at Radboud Universiteit Nijmegen, currently doing a research internship with Christian Machens at Champalimaud Research in Lisbon.
 
 🔬 **Current Interests**  
 - Biological learning algorithms (and how they might differ from backpropagation)
