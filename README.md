@@ -17,8 +17,7 @@ I'm fascinated by the interface between **neuroscience** and **artificial intell
 
 
 🌱 **Currently Learning**
-- Filling gaps in Neuroscience and ML, specifically about Free Energy Principle and RL
-- Still understanding basic properties of LLMs & RNNs
+
 
 ---
 
