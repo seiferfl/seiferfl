@@ -7,6 +7,7 @@ I'm fascinated by the interface between **neuroscience** and **artificial intell
 🔬 **Current Interests**  
 - Biological learning algorithms (and how they might differ from backpropagation)
 - Working memory and sequence modeling
+- Representation of information in neural networks
 - Science of Learning
 
 
