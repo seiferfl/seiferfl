@@ -33,8 +33,7 @@ I'm fascinated by the interface between **neuroscience** and **artificial intell
 
 ### 📘 Recent Questions I’ve Been Thinking About
 
-> 🧩 What kind of internal representations enable flexible generalization in both brains and machines?  
-> 🔁 Can simple recurrent structures (like RNNs) model working memory as efficiently as cortical circuits - and how?  
+> 🧩 What kind of internal representations enable flexible generalization in both brains and machines?
 
 ---
 
