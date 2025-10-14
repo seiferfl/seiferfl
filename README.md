@@ -5,7 +5,7 @@
 I'm a Master's student in Neurophysics at Radboud Universiteit Nijmegen, currently doing a research internship with Christian Machens at Champalimaud Research in Lisbon.
 
 🔬 **Current Interests**  
-- Biological learning algorithms (and how they might differ from SGD)
+- Biologically plausible learning algorithms (and how they might differ from SGD)
 - How the brain represents and computes with uncertainty
 - Working memory and sequence modeling
 - Representation of information in neural networks overall
