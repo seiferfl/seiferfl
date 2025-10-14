@@ -6,8 +6,9 @@ I'm a Master's student in Neurophysics at Radboud Universiteit Nijmegen, current
 
 🔬 **Current Interests**  
 - Biological learning algorithms (and how they might differ from backpropagation)
+- How the brain represents and computes with uncertainty
 - Working memory and sequence modeling
-- Representation of information in neural networks
+- Representation of information in neural networks overall
 - Science of Learning
 
 
