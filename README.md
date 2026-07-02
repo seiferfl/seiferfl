@@ -7,14 +7,12 @@ I'm a Master's student in Neurophysics at Radboud Universiteit Nijmegen, current
 🔬 **Current Interests**  
 - Biologically plausible learning algorithms (and how they might differ from SGD)
 - How the brain represents and computes with uncertainty
-- Working memory and sequence modeling
 - Representation of information in neural networks overall
 - Science of Learning
 
 
 🚧 **Current Projects**  
 - Devising a local learning rule for spiking RNNS 
-- 🤝 Collaborating with [@LeonardVetter](https://github.com/LeonardVetter) on using statistical physics to better understand macroscopic dynamics in neural networks.
 
 
 🌱 **Currently Learning**
