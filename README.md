@@ -37,7 +37,7 @@
 ---
 
 ### 📫 Let's Connect
-
-- 🔗 [Twitter/X](https://x.com/DbgYBrn) | [LinkedIn](https://www.linkedin.com/in/florentin-seifert-50984233b/)
+<!--🔗 [Twitter/X](https://x.com/DbgYBrn) |--> 
+- [LinkedIn](https://www.linkedin.com/in/florentin-seifert-50984233b/)
 
 
