@@ -33,9 +33,9 @@
 <!--### 📘 Recent Questions I’ve Been Thinking About
 
 🧩 What kind of internal representations enable flexible generalization in both brains and machines?
--->
----
 
+---
+-->
 ### 📫 Let's Connect
 <!--🔗 [Twitter/X](https://x.com/DbgYBrn) |--> 
 - [LinkedIn](https://www.linkedin.com/in/florentin-seifert-50984233b/)
