@@ -32,7 +32,7 @@
 
 <!--### 📘 Recent Questions I’ve Been Thinking About
 
-<!--> 🧩 What kind of internal representations enable flexible generalization in both brains and machines?
+🧩 What kind of internal representations enable flexible generalization in both brains and machines?
 
 ---
 
