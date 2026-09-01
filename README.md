@@ -38,6 +38,7 @@
 -->
 ### 📫 Let's Connect
 <!--🔗 [Twitter/X](https://x.com/DbgYBrn) |--> 
-- [LinkedIn](https://www.linkedin.com/in/florentin-seifert-50984233b/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florentin-seifert)
+
 
 
