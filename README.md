@@ -2,21 +2,20 @@
 
 ### 👋 Hi, I'm Florentin
 
-I'm a Master's student in Neurophysics at Radboud Universiteit Nijmegen, currently doing a research internship with Christian Machens at Champalimaud Research in Lisbon.
 
-🔬 **Current Interests**  
+<!--🔬 **Current Interests**  
 - Biologically plausible learning algorithms (and how they might differ from SGD)
 - How the brain represents and computes with uncertainty
 - Representation of information in neural networks overall
 - Science of Learning
 
 
-🚧 **Current Projects**  
-- Devising a local learning rule for spiking RNNS 
+<!--🚧 **Current Projects**  
+<!--- Devising a local learning rule for spiking RNNS 
 
 
-🌱 **Currently Learning**
-- hopefully a lot.
+<!--🌱 **Currently Learning**
+<!--- hopefully a lot.
 
 ---
 
@@ -31,9 +30,9 @@ I'm a Master's student in Neurophysics at Radboud Universiteit Nijmegen, current
 
 ---
 
-### 📘 Recent Questions I’ve Been Thinking About
+<!--### 📘 Recent Questions I’ve Been Thinking About
 
-> 🧩 What kind of internal representations enable flexible generalization in both brains and machines?
+<!--> 🧩 What kind of internal representations enable flexible generalization in both brains and machines?
 
 ---
 
